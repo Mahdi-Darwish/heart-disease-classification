@@ -61,8 +61,8 @@ heart_disease_classification/
 ## Running it
 
 ```bash
-git clone https://github.com/Mahdi-Darwish/heart_disease_classification.git
-cd heart_disease_classification
+git clone https://github.com/Mahdi-Darwish/heart-disease-classification.git
+cd heart-disease-classification
 
 python3 -m venv venv
 source venv/bin/activate          # on Windows: venv\Scripts\activate
